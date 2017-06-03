@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="mario_d">img/d.png</file>
+        <file alias="porte_f">img/door_closed.png</file>
+        <file alias="porte_o">img/door_open.png</file>
+        <file alias="fond">img/fond.jpg</file>
+        <file alias="mario_g">img/g.png</file>
+        <file alias="mario_hd">img/hd.png</file>
+        <file alias="mario_hg">img/hg.png</file>
+        <file alias="cle">img/key.png</file>
+        <file alias="vie">img/life.png</file>
+        <file alias="vie1">img/life1.png</file>
+        <file alias="vie2">img/life2.png</file>
+        <file alias="vie3">img/life3.png</file>
+        <file alias="vie4">img/life4.png</file>
+        <file alias="icon">img/mario.png</file>
+        <file>img/mario.ico</file>
+        <file alias="ecran">img/ecran_mario.png</file>
+    </qresource>
+    <qresource prefix="/son">
+        <file alias="hurry">son/hurry-up.wav</file>
+        <file alias="over">son/game-over.wav</file>
+        <file alias="comm">son/comm.wav</file>
+        <file alias="cle">son/key.wav</file>
+        <file alias="fin">son/fin.wav</file>
+    </qresource>
+</RCC>
